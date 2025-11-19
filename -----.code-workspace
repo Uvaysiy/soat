@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../-----"
+		},
+		{
+			"path": "../../Downloads/Tech_shop_market-master/Tech_shop_market-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tech_shop_market-master"
+	}
+}
